@@ -1,7 +1,8 @@
-package pl.stefanprogramuje.blog.services;
+package pl.stefanprogramuje.blog.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import pl.stefanprogramuje.blog.service.NotificationService;
 
 import javax.servlet.http.HttpSession;
 import java.util.ArrayList;

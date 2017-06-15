@@ -1,4 +1,4 @@
-package pl.stefanprogramuje.blog.services;
+package pl.stefanprogramuje.blog.service;
 
 public interface NotificationService {
 

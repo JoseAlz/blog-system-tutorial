@@ -1,6 +1,6 @@
-package pl.stefanprogramuje.blog.services;
+package pl.stefanprogramuje.blog.service;
 
-import pl.stefanprogramuje.blog.models.Post;
+import pl.stefanprogramuje.blog.domain.Post;
 
 import java.util.List;
 

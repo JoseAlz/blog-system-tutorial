@@ -1,8 +1,9 @@
-package pl.stefanprogramuje.blog.services;
+package pl.stefanprogramuje.blog.service.impl;
 
 import org.springframework.stereotype.Service;
-import pl.stefanprogramuje.blog.models.Post;
-import pl.stefanprogramuje.blog.models.User;
+import pl.stefanprogramuje.blog.domain.Post;
+import pl.stefanprogramuje.blog.domain.User;
+import pl.stefanprogramuje.blog.service.PostService;
 
 import java.util.ArrayList;
 import java.util.List;
